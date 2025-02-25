@@ -1,1 +1,6 @@
 we will merge master and duplicate branch
+How to use push or pull operations
+
+------------GitHub interface-----------
+
+Make changes via github interface
